@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "KIMM_Light";
+  font-weight: 900;
+  font-display: swap;
+  src: local("KIMM_Light bold"), url("./ttf/한국기계연구원_bold.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "KIMM_Light";
+  font-weight: 900;
+  font-display: swap;
+  src: local("KIMM_Light Light"), url("./ttf/한국기계연구원_Light.ttf") format("ttf");
+}
